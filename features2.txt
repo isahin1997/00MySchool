@@ -1,0 +1,43 @@
+unvariate selection:
+
+13         filled_area  5051.347059
+3               bbox-1  3024.602044
+5               bbox-3  2207.954510
+6            bbox_area  2083.807494
+8          convex_area  2063.934860
+7            perimeter  1131.709667
+14   perimeter_crofton   940.798746
+1                 area   353.416719
+0                label    62.587262
+12  feret_diameter_max    14.491062
+
+
+Feature importance method
+
+eccentricity
+preimeter crofton
+filled area
+perimeter
+feret dia max
+convex area
+solidity
+bbox_area
+extent
+bbox-3
+
+correlation matrix with heatmap
+most correlated:
+
+label
+bbox-1
+bbox-3
+perimeter
+perimeter crofton
+
+vice versa:
+
+eccentricity
+filled_area
+solidity
+extent
+bbox-2

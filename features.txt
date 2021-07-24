@@ -1,0 +1,18 @@
+3 punten:
+
+filled_area
+bbox_3
+perimeter
+perimeter crofton
+
+
+2 punten:
+
+bbox-1
+bbox_area
+convex_area
+label
+feret_dia_max
+eccentricity
+solidity
+extent
